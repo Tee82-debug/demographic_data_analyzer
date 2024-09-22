@@ -58,4 +58,4 @@ highest_earning_country: The country with the highest percentage of high-income 
 
 highest_earning_country_percentage: The percentage of high-income earners in the top-earning country.
 
-top_IN_occupation: The most popular occupation among high-income earners in India.
+top_in_occupation: The most popular occupation among high-income earners in India.
