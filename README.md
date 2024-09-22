@@ -41,12 +41,21 @@ Key Functions
 
 calculate(): This is the core function that processes the dataset and returns a dictionary with the following statistical results:
 race_count: Number of individuals of each race.
+
 average_age_men: Average age of men in the dataset.
+
 percentage_bachelors: Percentage of individuals with a Bachelor's degree.
+
 higher_education_rich: Percentage of people with higher education (Bachelors, Masters, Doctorate) earning more than 50K.
+
 lower_education_rich: Percentage of people without higher education earning more than 50K.
+
 min_work_hours: Minimum number of hours a person works per week.
+
 rich_percentage: Percentage of people working the fewest hours who still earn more than 50K.
+
 highest_earning_country: The country with the highest percentage of high-income earners.
+
 highest_earning_country_percentage: The percentage of high-income earners in the top-earning country.
+
 top_IN_occupation: The most popular occupation among high-income earners in India.
